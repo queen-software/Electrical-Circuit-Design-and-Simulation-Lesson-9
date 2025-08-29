@@ -9,3 +9,5 @@ res,bc237,led-white,button ekle
 <img width="1218" height="654" alt="Ekran görüntüsü 2025-08-29 101335" src="https://github.com/user-attachments/assets/85bdd573-25de-4f3b-8d52-00308cabb5db" />
 <img width="1152" height="697" alt="Ekran görüntüsü 2025-08-29 101350" src="https://github.com/user-attachments/assets/da541b0d-bebf-4caa-8cfa-35d8da8a2e55" />
 <img width="1231" height="575" alt="Ekran görüntüsü 2025-08-29 101406" src="https://github.com/user-attachments/assets/7b14d04d-7a97-4bcc-ae8f-af9e4dc2738e" />
+## Kapasitör
+<img width="1262" height="612" alt="image" src="https://github.com/user-attachments/assets/a5d83cc2-4747-49f1-b6de-e6f6187f0f6a" />
