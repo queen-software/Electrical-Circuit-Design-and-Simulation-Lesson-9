@@ -11,3 +11,6 @@ res,bc237,led-white,button ekle
 <img width="1231" height="575" alt="Ekran görüntüsü 2025-08-29 101406" src="https://github.com/user-attachments/assets/7b14d04d-7a97-4bcc-ae8f-af9e4dc2738e" />
 ## Kapasitör
 <img width="1262" height="612" alt="image" src="https://github.com/user-attachments/assets/a5d83cc2-4747-49f1-b6de-e6f6187f0f6a" />
+<img width="1041" height="662" alt="image" src="https://github.com/user-attachments/assets/25435478-5127-42fa-b4a3-377b1b535e9d" />
+<img width="881" height="385" alt="image" src="https://github.com/user-attachments/assets/28098247-d18e-49dd-957e-ded0744300ae" />
+## Flip _flop
