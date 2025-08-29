@@ -24,3 +24,5 @@ res,bc237,led-white,button ekle
 <img width="1711" height="890" alt="image" src="https://github.com/user-attachments/assets/f9eeafab-8d9e-444f-a9be-8608df88fdeb" />
 * XOR ,AND, OR,LOGICSTATE,NOT,LOGICPOROPE(BIG)
 * <img width="1584" height="863" alt="image" src="https://github.com/user-attachments/assets/b9dce2bd-2678-4d92-abae-79bf32917df2" />
+<img width="1474" height="841" alt="image" src="https://github.com/user-attachments/assets/9a3f158f-4f2d-4e62-b15e-9eba5f1d197f" />
+PCB DEVRE YAPILACAK
