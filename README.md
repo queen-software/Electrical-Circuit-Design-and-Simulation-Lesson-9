@@ -15,3 +15,12 @@ res,bc237,led-white,button ekle
 <img width="881" height="385" alt="image" src="https://github.com/user-attachments/assets/28098247-d18e-49dd-957e-ded0744300ae" />
 
 ## Flip _flop
+* Cap-elec
+<img width="726" height="731" alt="image" src="https://github.com/user-attachments/assets/961e2716-051e-412d-b182-417adf4b3a34" />
+
+<img width="670" height="723" alt="image" src="https://github.com/user-attachments/assets/01efc6fe-286f-4f34-83f1-3ea26ec65b35" />
+<img width="1030" height="829" alt="image" src="https://github.com/user-attachments/assets/7d14337f-b131-4c43-b67d-3dc92e0c2df9" />
+*4017
+<img width="1711" height="890" alt="image" src="https://github.com/user-attachments/assets/f9eeafab-8d9e-444f-a9be-8608df88fdeb" />
+* XOR ,AND, OR,LOGICSTATE,NOT,LOGICPOROPE(BIG)
+* <img width="1584" height="863" alt="image" src="https://github.com/user-attachments/assets/b9dce2bd-2678-4d92-abae-79bf32917df2" />
